@@ -1,0 +1,55 @@
+{
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es la capital de Australia?",
+        "opciones": [
+          "Sídney",
+          "Melbourne",
+          "Canberra",
+          "Brisbane"
+        ],
+        "respuesta_correcta": "Canberra"
+      },
+      {
+        "pregunta": "¿Qué país de Oceanía tiene como moneda el dólar neozelandés?",
+        "opciones": [
+          "Nueva Zelanda",
+          "Australia",
+          "Fiyi",
+          "Papúa Nueva Guinea"
+        ],
+        "respuesta_correcta": "Nueva Zelanda"
+      },
+      {
+        "pregunta": "¿Cuál es el país más grande de Oceanía por superficie terrestre?",
+        "opciones": [
+          "Nueva Zelanda",
+          "Australia",
+          "Fiyi",
+          "Papúa Nueva Guinea"
+        ],
+        "respuesta_correcta": "Australia"
+      },
+      {
+        "pregunta": "¿Cuál de los siguientes países NO es parte de Oceanía?",
+        "opciones": [
+          "Nueva Zelanda",
+          "Australia",
+          "Fiyi",
+          "China"
+        ],
+        "respuesta_correcta": "China"
+      },
+      {
+        "pregunta": "¿Cuál es la moneda oficial de Fiyi?",
+        "opciones": [
+          "Dólar australiano",
+          "Dólar fiyiano",
+          "Rupia indonesia",
+          "Kina papúa"
+        ],
+        "respuesta_correcta": "Dólar fiyiano"
+      }
+    ]
+  }
+  
